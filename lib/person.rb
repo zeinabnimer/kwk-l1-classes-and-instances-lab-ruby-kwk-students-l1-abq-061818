@@ -9,5 +9,5 @@ class person
     @name = new_name
   end
 end
-adele_goldberg = Dog.new(adele_goldberg)
-alan_key = Dog.new(alan_kay)
+adele_goldberg = Dog.new("adele_goldberg")
+alan_key = Dog.new("alan_kay")
